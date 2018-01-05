@@ -1,0 +1,9 @@
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\bin\Debug\WcfClientApp.exe.config
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\bin\Debug\WcfClientApp.exe
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\bin\Debug\WcfClientApp.pdb
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\bin\Debug\WcfService.dll
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\bin\Debug\WcfService.pdb
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\obj\Debug\WcfClientApp.csprojResolveAssemblyReference.cache
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\obj\Debug\WcfClientApp.csproj.CoreCompileInputs.cache
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\obj\Debug\WcfClientApp.exe
+C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfClientApp\obj\Debug\WcfClientApp.pdb
