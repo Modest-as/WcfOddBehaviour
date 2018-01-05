@@ -1,6 +1,0 @@
-c:\Users\modestas.petravicius.se\documents\visual studio 2017\Projects\WcfApp\WcfService\obj\Debug\WcfService.csprojResolveAssemblyReference.cache
-c:\Users\modestas.petravicius.se\documents\visual studio 2017\Projects\WcfApp\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
-C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfService\bin\Debug\WcfService.dll
-C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfService\bin\Debug\WcfService.pdb
-C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfService\obj\Debug\WcfService.dll
-C:\Users\modestas.petravicius.SE\documents\visual studio 2017\Projects\WcfApp\WcfService\obj\Debug\WcfService.pdb
